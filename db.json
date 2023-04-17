@@ -1,9 +1,81 @@
 {
+    "events": [
+        {
+            "id": 1,
+            "title": "Title 1",
+            "description": "Description 1",
+            "category": "sport",
+            "date": "April 25"
+        },
+        {
+            "id": 2,
+            "title": "Title 2",
+            "description": "Description 2",
+            "category": "food",
+            "date": "May 13"
+        },
+        {
+            "id": 3,
+            "title": "Title 3",
+            "description": "Description 3",
+            "category": "politics",
+            "date": "January 1"
+        },
+        {
+            "id": 4,
+            "title": "Title 4",
+            "description": "Description 4",
+            "category": "sport",
+            "date": "April 25"
+        },
+        {
+            "id": 5,
+            "title": "Title 5",
+            "description": "Description 5",
+            "category": "food",
+            "date": "June 18"
+        },
+        {
+            "id": 6,
+            "title": "Title 6",
+            "description": "Description 6",
+            "category": "politics",
+            "date": "November 4"
+        },
+        {
+            "id": 7,
+            "title": "Title 7",
+            "description": "Description 7",
+            "category": "sport",
+            "date": "December 25"
+        },
+        {
+            "id": 8,
+            "title": "Title 8",
+            "description": "Description 8",
+            "category": "food",
+            "date": "September 13"
+        },
+        {
+            "id": 9,
+            "title": "Title 9",
+            "description": "Description 9",
+            "category": "politics",
+            "date": "April 25"
+        },
+        {
+            "id": 10,
+            "title": "Title 10",
+            "description": "Description 10",
+            "category": "sport",
+            "date": "February 24"
+        }
+    ],
     "dashboard": {
-        "posts": 52, 
-        "likes": 52, 
-        "followers": 52, 
-        "following": 52
+        "posts": 5, 
+        "likes": 550, 
+        "followers": 20, 
+        "following": 50
     },
     "news": [
         {
