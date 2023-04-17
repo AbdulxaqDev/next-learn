@@ -8,7 +8,7 @@ export default function ArticleListByCategory({ news, category }) {
             <h2>
               {n.id} {n.title} | {n.category}
             </h2>
-            <p>n.description</p>
+            <p>{n.description}</p>
           </div>
         );
       })}

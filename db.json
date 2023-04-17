@@ -1,4 +1,10 @@
 {
+    "dashboard": {
+        "posts": 52, 
+        "likes": 52, 
+        "followers": 52, 
+        "following": 52
+    },
     "news": [
         {
             "id": 1,
@@ -9,7 +15,7 @@
         {
             "id": 2,
             "title": "News Article 2",
-            "description": "Description 2",
+            "description": "Old Description 2",
             "category": "politics"
         },
         {
